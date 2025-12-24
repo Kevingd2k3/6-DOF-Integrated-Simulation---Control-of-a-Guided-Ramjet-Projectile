@@ -1,0 +1,12 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by Ansys Workbench.
+# Project name: Ramjet_Projectile
+# Creation date: 12/01/2025 01:57:47
+# 
+# 12/01/2025 01:57:47
+# The parameters defined in the project are:
+# ,P1 - drag_monitor-op,P2 - lift_monitor-op
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P1,P2
+DP 0,0.66655514,0.0015895994
