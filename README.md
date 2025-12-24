@@ -42,3 +42,7 @@ Pictures
 ├── higher_initial_velocity.py     # Trade Study: The "Big Gun" approach (Failed)
 ├── projectile_w_thrust.py         # Physics Class definition
 └── Report.pdf                     # Full Technical Engineering Report
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
