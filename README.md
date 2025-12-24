@@ -90,4 +90,4 @@ Pictures
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.w
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.wgit pull origin main --allow-unrelated-histories
